@@ -1,9 +1,9 @@
 ## Hi there 👋
-Education - Informaton security
-Have experience in C#
-English level - B1
-My hobbies are chess and football
-I'm new guy here. I'll add new information later
+Education - Informaton security.
+Have experience in C#.
+English level - B1.
+My hobbies are chess and football.
+I'm new guy here. I'll add new information later.
 <!--
 **Xiter03/Xiter03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
